@@ -6,11 +6,11 @@ Problem 1. Use Appropriate Escape Sequence( \n, \t \b \ ..etc) for the problem b
 
 Source Code:
 
-  print("Database Record\n")
-  print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
-  print("Name:\t\tJohn Doe")
-  print("Email:\t\tjohn.doe@example.com")
-  print("University:\tABC University")
+      print("Database Record\n")
+      print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
+      print("Name:\t\tJohn Doe")
+      print("Email:\t\tjohn.doe@example.com")
+      print("University:\tABC University")
 
 Output:
 
@@ -113,3 +113,4 @@ Source Code:
 Output:
 
 <img width="224" height="179" alt="image" src="https://github.com/user-attachments/assets/66c7d03b-4530-42c5-b1b0-1e187aa7ae47" />
+
