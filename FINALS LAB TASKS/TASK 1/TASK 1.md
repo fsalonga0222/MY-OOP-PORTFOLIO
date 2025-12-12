@@ -1,7 +1,7 @@
 
 <img width="602" height="598" alt="image" src="https://github.com/user-attachments/assets/99a0aff9-55ce-4a12-9565-0bc697de5840" />
 
-SOURCE CODE
+ SOURCE CODE
 class Car:
 def __init__(self, color: str, price: float, size: str):
 self.__color = color
