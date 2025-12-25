@@ -110,8 +110,8 @@ SOURCE CODE
       
       if __name__ == "__main__":
          main_menu()
-   cursor.close()
-   conn.close()
+         cursor.close()
+         conn.close()
 
 OUTPUT
 
@@ -124,3 +124,4 @@ OUTPUT
 <img width="715" height="327" alt="image" src="https://github.com/user-attachments/assets/90aff704-625b-486b-8532-431f67b5f048" />
 
 <img width="718" height="434" alt="image" src="https://github.com/user-attachments/assets/7c35d339-4002-4727-8ec7-f50d5d7100f9" />
+
